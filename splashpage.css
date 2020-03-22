@@ -1,0 +1,43 @@
+html { 
+    background: url(splashPageBackground.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1 {
+    color: #847861;
+    text-align: center;
+    padding-top: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+  }
+
+    #splashHeaderText {
+        margin-top: 50dp;
+        width: 100%;
+        height: 100%;
+    }
+
+    #headerImage {
+        /* background-color: pink; */
+        margin-left: 25%;
+        margin-right: auto;
+        width: 50%;
+        height: 400dp;
+    }
+
+  h3 {
+      color: #aca18c;
+      text-align: center;
+      font-size: 30px;
+
+  }
+
+  body {
+      /* background-color: black; */
+      padding-top: 0;
+      margin-top: 8%;
+  }
+  
